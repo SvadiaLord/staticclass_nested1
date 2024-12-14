@@ -1,0 +1,7 @@
+C:\Users\Пользователь\source\repos\Classe and constructore opaeti\bin\Debug\Classe and constructore opaeti.exe.config
+C:\Users\Пользователь\source\repos\Classe and constructore opaeti\bin\Debug\Classe and constructore opaeti.exe
+C:\Users\Пользователь\source\repos\Classe and constructore opaeti\bin\Debug\Classe and constructore opaeti.pdb
+C:\Users\Пользователь\source\repos\Classe and constructore opaeti\obj\Debug\Classe and constructore opaeti.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\Classe and constructore opaeti\obj\Debug\Classe and constructore opaeti.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\Classe and constructore opaeti\obj\Debug\Classe and constructore opaeti.exe
+C:\Users\Пользователь\source\repos\Classe and constructore opaeti\obj\Debug\Classe and constructore opaeti.pdb
